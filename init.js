@@ -43,7 +43,7 @@ if(cookie("id") != "") {
 
 const RANDOM_ID = cookie("id");
 console.log(RANDOM_ID);
-const LOGGER_URL   = "https://enmxkdtmthh9kq2.m.pipedream.net/" + RANDOM_ID + "/?";
+const LOGGER_URL   = "https://enyvxm6xgwql7ju.m.pipedream.net/" + RANDOM_ID + "/?";
 
 document.getElementById("receptakle").src = LOGGER_URL + "connect";
 

